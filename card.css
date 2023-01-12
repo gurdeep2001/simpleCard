@@ -1,0 +1,71 @@
+body{
+    margin-top: 50px;
+    background-color: whitesmoke;
+    font-family: Rubik,sans-serif;
+    font-weight: 700;
+}
+figure{
+    margin-left: 20px;
+    width: 358px;
+    height: 201px;
+    
+}
+figcaption{
+    padding-top: 0px;
+}
+img{
+    width: 358px;
+    height: 201px;
+    border-radius: 3%;
+}
+hr{
+    border: 0.5px solid rgba(39, 38, 43, 0.185);
+}
+.caption{
+    display: block;
+    margin-top: 6px;
+    margin-left: 8px;
+    width: 316px;
+    height: 80px;
+    border: none;
+    
+    /* border-bottom: 0.5px solid rgba(39, 38, 43, 0.185); */
+
+}
+div{
+    /* background-color: blue; */
+    background-color: white;
+    border: 0.5px solid rgba(39, 38, 43, 0.185);
+    border-radius: 3%;
+    box-shadow: 10px black;
+    /* text-shadow: 10px black; */
+    /* border-left: 0.5px solid rgba(39, 38, 43, 0.185);
+    border-right: 0.5px solid rgba(39, 38, 43, 0.185); */
+    width: 398px;
+    height: 375px;
+    margin-left: 60px;
+}
+.price{
+    padding: 10px;
+    color: gray;
+    font-weight: 700;
+}
+.final-price{
+    color: rgb(102 116 204);
+}
+#dis{
+    background-color: rgb(29 209 161);
+    color: rgb(255 255 255);
+    width: 51px;
+    height: 2px;
+    margin-left: 120px;
+    margin-top: -22px;
+    text-align: center;
+    padding-top: 3px;
+    border: 0.5px solid rgba(39, 38, 43, 0.185);
+    padding-top: 0.25em;
+    padding-bottom: 1.25rem;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    border-radius: 15%;
+}
